@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Michael Mahumba!</h1>
+<h1 align="center ">👋 Hi, I'm Michael Mahumba!</h1>
 <p align="center">
   <img src="https://i.pinimg.com/564x/d0/79/81/d079816c1e699834fd1f01eceeddee8e.jpg" alt="CODER vector illustrator" width="400" style="border-radius: 20px;">
 </p>
