@@ -1,4 +1,5 @@
 👋 Hi, I'm Michael!  
+![CODER vector illustrator](https://i.pinimg.com/564x/d0/79/81/d079816c1e699834fd1f01eceeddee8e.jpg)
 
 
 🎮 Gamer | 📚 Reader | 🖥️ Tech Enthusiast  
