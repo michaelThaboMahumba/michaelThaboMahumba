@@ -11,7 +11,7 @@
 
 Hey there! I'm Michael Mahumba, an 18-year-old web development enthusiast from Francistown, Botswana. 
 
-I have a keen interest in web development and spend my time learning about different programming languages and frameworks. My journey into coding began last December during my school break, and I've been passionately pursuing it ever since.
+I have a keen interest in web development and spend my time building projects. My journey into coding began last December during my school break, and I've been passionately pursuing it ever since.
 
 Outside of coding, I enjoy gaming, reading, and exploring the vast world of technology. I'm always eager to learn and take on new challenges, whether it's mastering a new framework or building exciting web projects.
 
